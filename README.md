@@ -32,7 +32,7 @@ Navigate to the `p2_continuous-control/notebooks/` directory and start jupyter n
 $ ipython3 notebook
 ```
 Chose `A2C_Continuous_Control.ipynb` or `DDPG_Continuous_Control.ipynb` to test the A2C or DDPG implementations, respectively.
-Follow the instruction in notebooks, to train your own agent or test the best performing weights.
+Follow the instruction in the notebooks to train your own agent or test the best performing weights.
 
 ### Report
 
